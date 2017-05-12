@@ -1,35 +1,4 @@
-.sg{
-    border-color: grey;
-    border-style: solid;
-    border-width:1px;
-    width:48%;
-    height:48%;
-    float: left;
-    margin:2px;
-}
-
-body{
-    height: 100vh; /* viewport hеight (вся высота экрана) */
-}
-
-.first{
-    background:darkred;
-}
-.second{
-    background:lightgreen;
-}
-.third{
-    background: #fffd6f;
-}
-.fourth{
-    background: deepskyblue;
-}
-
-.bublic{
-    width:20%;
-    height:20%;
-    border:solid grey 75px;
-    border-radius: 600px;
-    margin:auto;
-    margin-top:10%;
+.page-header {
+    padding: 10px;
+    background-color: #eeeeee;
 }
